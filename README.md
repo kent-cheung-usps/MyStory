@@ -1,5 +1,5 @@
 # MyWiki
-Kent Personal Wiki Page
+
 
 D-94039 - Sonar Bug Fix - Web:TableWithoutCaptionCheck <br>
 D-94040 - Sonar Bug Fix - Properties should not be duplicated css:S4656 <br>
