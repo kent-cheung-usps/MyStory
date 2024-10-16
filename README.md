@@ -1,4 +1,4 @@
-# MyWiki
+# Code Coverage Logs
 
 | DATE | Metric | Story |
 |---|---|---|
