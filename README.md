@@ -8,3 +8,4 @@
 | 2024-10-10 | CC: 20.2% TC: N/A | B-896412 - NFR: Code Coverage - LocationController |
 | 2024-10-15 | CC: 31.9% TC: 160 | B-896421 - NFR: Code Coverage - UserController |
 | 2024-10-16 | CC: 36.3% TC: 169 | B-896420 - NFR: Code Coverage - TPBController |
+| 2024-10-17 | CC: 41.8% TC: 197 | B-892415 - NFR: Code Coverage - MIDController |
