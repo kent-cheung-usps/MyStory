@@ -16,3 +16,4 @@
 | 2024-10-30 | CC: 84.0% TC: 235 | B-903675: NFR: Unit Test - HealthController |
 | 2024-10-31 | CC: 86.0% TC: 237 | B-903671: NFR: Unit Test - EMailController |
 | 2024-11-04 | CC: 81.5% TC: 253 | B-903674: NFR: Unit Test - EPSController |
+| 2024-11-06 | CC: 87.7% TC: 261 | B-906456: NFR: Unit Test - Workflow & Platform User Controllers |
