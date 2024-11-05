@@ -15,3 +15,4 @@
 | 2024-10-24 | CC: 62.8% TC: 221 | B-896418: NFR: Code Coverage - SessionController |
 | 2024-10-30 | CC: 84.0% TC: 235 | B-903675: NFR: Unit Test - HealthController |
 | 2024-10-31 | CC: 86.0% TC: 237 | B-903671: NFR: Unit Test - EMailController |
+| 2024-11-04 | CC: 81.5% TC: 253 | B-903674: NFR: Unit Test - EPSController |
