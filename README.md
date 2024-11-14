@@ -17,3 +17,9 @@
 | 2024-10-31 | CC: 86.0% TC: 237 | B-903671: NFR: Unit Test - EMailController |
 | 2024-11-04 | CC: 81.5% TC: 253 | B-903674: NFR: Unit Test - EPSController |
 | 2024-11-06 | CC: 87.7% TC: 261 | B-906456: NFR: Unit Test - Workflow & Platform User Controllers |
+
+# Sonar Major Bug & Vulnerabilities Fixes
+| DATE | Metric | Story |
+|---|---|---|
+| 2024-11-12 | H:0 M:2 L:1 | B-909092: NFR - Bug Fixes Security Hotspots |
+| 2024-11-14 | B:0 V:0     | B-906583: NFR: Review and Analysis Major Bug Reported by Sonar |
