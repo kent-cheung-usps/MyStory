@@ -23,4 +23,5 @@
 |---|---|---|
 | 2024-11-12 | H:0 M:2 L:1 | B-909092: NFR - Bug Fixes Security Hotspots |
 | 2024-11-14 | B:0 V:0     | B-906583: NFR: Review and Analysis Major Bug Reported by Sonar |
-| 2024-11-15 | B:0 V:0     | Upload latest Sonar Report screenshot |
+| 2024-11-15 | B:0 V:35    | Upload latest Sonar Report screenshot |
+| 2024-11-19 | B:0 V:0     | B-908934: Sonar Vulnerability - Fix Log Injection |
