@@ -18,6 +18,7 @@
 | 2024-11-04 | CC: 81.5% TC: 253 | B-903674: NFR: Unit Test - EPSController |
 | 2024-11-06 | CC: 87.7% TC: 261 | B-906456: NFR: Unit Test - Workflow & Platform User Controllers |
 | 2024-11-22 | CC: 86.7% TC: 276 | B-910663: Test case creation for EPSController & PPCController |
+| 2024-11-25 | OC: 30.0% TC: 277 | B-912958: NFR - Test Case Creation: Aspect Component <br> New KPI OC - Overall Code Coverage for COPCoreApp |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
