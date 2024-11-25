@@ -17,6 +17,7 @@
 | 2024-10-31 | CC: 86.0% TC: 237 | B-903671: NFR: Unit Test - EMailController |
 | 2024-11-04 | CC: 81.5% TC: 253 | B-903674: NFR: Unit Test - EPSController |
 | 2024-11-06 | CC: 87.7% TC: 261 | B-906456: NFR: Unit Test - Workflow & Platform User Controllers |
+| 2024-11-22 | CC: 86.7% TC: 276 | B-910663: Test case creation for EPSController & PPCController |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
@@ -25,3 +26,4 @@
 | 2024-11-14 | B:0 V:0     | B-906583: NFR: Review and Analysis Major Bug Reported by Sonar |
 | 2024-11-15 | B:0 V:35    | Upload latest Sonar Report screenshot |
 | 2024-11-19 | B:0 V:0     | B-908934: Sonar Vulnerability - Fix Log Injection |
+| 2024-11-20 | B:0 V:0     | D-96309: Fix Sonar Major Bug introduce on 2024-11-19 |
