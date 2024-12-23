@@ -21,6 +21,7 @@
 | 2024-11-25 | OC: 30.0% TC: 277 | B-912958: NFR - Test Case Creation: Aspect Component <br> New KPI OC - Overall Code Coverage for COPCoreApp |
 | 2024-12-10 | OC: 35.9% TC: 389 | B-912968: NFR - Unit Tests Creation: Security Component <br> TK-2522057 TK-2522058 TK-2522059 TK-2522060 <br>TK-2522061 TK-2522062 TK-2522063 TK-2522064 TK-2522065 |
 | 2024-12-16 | OC: 36.2% TC: 407 | B-912959: NFR - Unit Test Creation: Config Component. <br> TK-2535394 TK-2535396 TK-2535399 TK-2535400 TK-2535401 |
+| 2024-12-23 | OC: 37.6% TC: 444 | B-912964: NFR - Unit Test Creation: Integration Component <br> B-912965: NFR - Unit Test Creation: Error Component |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
