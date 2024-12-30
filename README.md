@@ -2,7 +2,7 @@
 
 | DATE | Metric | Story |
 |---|---|---|
-| <nobr>2024-10-10</nobr> | CC: N/A   TC: N/A | D-94039 - Sonar Bug Fix - Web:TableWithoutCaptionCheck |
+| 2024-10-10 | CC: N/A   TC: N/A | D-94039 - Sonar Bug Fix - Web:TableWithoutCaptionCheck |
 | 2024-10-10 | CC: 16.4% TC: N/A | D-94040 - Sonar Bug Fix - Properties should not be duplicated css:S4656 |
 | 2024-10-10 | CC: 17.4% TC: N/A | B-896408: NFR: Code Coverage - AccountSelectionController |
 | 2024-10-10 | CC: 20.2% TC: N/A | B-896412: NFR: Code Coverage - LocationController |
@@ -22,7 +22,7 @@
 | 2024-12-10 | OC: 35.9% TC: 389 | B-912968: NFR - Unit Tests Creation: Security Component <br> TK-2522057 TK-2522058 TK-2522059 TK-2522060 <br>TK-2522061 TK-2522062 TK-2522063 TK-2522064 TK-2522065 |
 | 2024-12-16 | OC: 36.2% TC: 407 | B-912959: NFR - Unit Test Creation: Config Component. <br> TK-2535394 TK-2535396 TK-2535399 TK-2535400 TK-2535401 |
 | 2024-12-23 | OC: 37.6% TC: 444 | B-912964: NFR - Unit Test Creation: Integration Component <br> B-912965: NFR - Unit Test Creation: Error Component |
-| 2024-12-26 | OC: 37.7% TC: 450 | B-920670: NFR - Investigate n Resolve SonarQube Quality Gate Failure in Release v1.9.4 branch |
+| 2024-12-26 | OC: 37.7% TC: 450 | B-920670: NFR - Investigate SonarQube Quality Gate Failure in Release v1.9.4 branch |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
