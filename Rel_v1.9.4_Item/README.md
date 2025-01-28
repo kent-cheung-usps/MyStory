@@ -13,7 +13,8 @@ User has enrolled in SHIP returns ONLY and wants to enroll in outbound | 1 retur
 -------------
 ## Test Cases From Radha
 2025-01-10 - https://github.usps.gov/vxqqk0/MyStory/blob/main/Rel_v1.9.4_Item/EIR-9075-My%20Locations.xlsb
-## Defects
+
+## Defects<br>
 [D-98396 : Failed to enroll Mailer ID in Happy Path](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8747273)<br>
 [D-98391 : UI Enhancement - Replace "Select Company" Text to more meaningful instruction message](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8746951)<br>
 [D-98287 : Minor Cosmetic Alignment Issue When Resizing the Browser](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8742698)<br>
