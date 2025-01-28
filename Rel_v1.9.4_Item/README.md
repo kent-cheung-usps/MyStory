@@ -10,11 +10,11 @@ User enrolls in SHIP and wants to add an returns MID | 2 outbound + 1 return | y
 User has enrolled in SHIP outbound and wants to add an EXISTING returns MID(the mid is not enrolled in ship) | 5 outbound + 1 return | yes | outbound-yes, returns-no | On Manage Location screen, enable "Enroll" button on returns MID row to enroll into SHIP returns,  and navigate to Add MID screen, select EPA and call SHIP to enroll in returns
 User has enrolled in SHIP returns ONLY and wants to enroll in outbound | 1 return | yes | outbound-no, returns-yes | On My Account Page, enable Enroll SHIP/APIs Outbound button. On Manage location screen, enable "Enroll SHIP/APIs Outbound" button
 
--------------
+
 ## Test Cases From Radha
 2025-01-10 - https://github.usps.gov/vxqqk0/MyStory/blob/main/Rel_v1.9.4_Item/EIR-9075-My%20Locations.xlsb
 
-## Defects<br>
+## Defects
 [D-98396 : Failed to enroll Mailer ID in Happy Path](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8747273)<br>
 [D-98391 : UI Enhancement - Replace "Select Company" Text to more meaningful instruction message](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8746951)<br>
 [D-98287 : Minor Cosmetic Alignment Issue When Resizing the Browser](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8742698)<br>
@@ -30,8 +30,8 @@ User has enrolled in SHIP returns ONLY and wants to enroll in outbound | 1 retur
 [D-98957 : Failed to add location for this test case](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8781421)<br>
 [D-98967 : Quick Action "Request New Mailer Id" go to incorrect page.](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8781679)<br>
 [D-99030 : Fail to add International address](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8784146)<br>
-[D-99107 : UI Workflow Review/Enhancement - Redirect to ePay or Gateway?](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8788084)<br>
 [D-99107 : UI Workflow Review/Enhancement - Redirect to ePay or Gateway?](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8788084)
+
 -----------------
 ## Notes:
 1. Beside manual test, I am also pinpoint the issue from code level. Example: [D-98793 : Failed to add business location for "user by crid"](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8774346)<br>
