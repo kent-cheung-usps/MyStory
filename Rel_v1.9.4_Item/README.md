@@ -28,8 +28,9 @@ User has enrolled in SHIP returns ONLY and wants to enroll in outbound | 1 retur
 [D-98793 : Failed to add business location for "user by crid"](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8774346)<br>
 [D-98957 : Failed to add location for this test case](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8781421)<br>
 [D-98967 : Quick Action "Request New Mailer Id" go to incorrect page.](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8781679)<br>
-[D-99030 : Fail to add International address](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8784146)
-
+[D-99030 : Fail to add International address](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8784146)<br>
+[D-99107 : UI Workflow Review/Enhancement - Redirect to ePay or Gateway?](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8788084)<br>
+[D-99107 : UI Workflow Review/Enhancement - Redirect to ePay or Gateway?](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8788084)
 -----------------
 ## Notes:
 1. Beside manual test, I am also pinpoint the issue from code level. Example: [D-98793 : Failed to add business location for "user by crid"](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8774346)<br>
