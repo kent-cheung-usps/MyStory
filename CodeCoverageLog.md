@@ -24,6 +24,10 @@
 | 2024-12-23 | OC: 37.6% TC: 444 | B-912964: NFR - Unit Test Creation: Integration Component <br> B-912965: NFR - Unit Test Creation: Error Component |
 | 2024-12-26 | OC: 37.7% TC: 450 | B-920670: NFR - Investigate SonarQube Quality Gate Failure |
 | 2025-01-03 | OC: 40.0% TC: 515 | B-921867: NFR - SonarQube Quality Gate Failure for Dec 26 New Code |
+| 2025-01-07 | OC: N/A   TC: N/A | B-914989: NFR - Unit Test Creation: Service Component (TK-2554669) |
+| 2025-01-10 | Testing           | B-907187 - Manage Locations (Help on v1.9.4 release testing |
+| 2025-01-13 | Testing           | B-915075 - Easy Post Testing for v1.9.4 release |
+| 2025-02-11 | OC: 32.5% TC: 657 | B-930635 - Unit Test Creation: EregUserService |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
