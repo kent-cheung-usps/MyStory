@@ -23,7 +23,6 @@
 * New Code Coverage: 7.7%
 * Overall Code Coverage: 29.0%
 * Overall Unit Tests: 638
-![2025-02-28-Sonar-Report_Overall](https://github.usps.gov/vxqqk0/MyStory/assets/3011/bff5045f-c5c4-475a-8deb-039de40b8e07)
-![2025-02-28-Sonar-Report_NewCode](https://github.usps.gov/vxqqk0/MyStory/assets/3011/e4895898-aa3e-42a8-af06-8ff93aa49849)
 
-
+<img src="https://github.usps.gov/vxqqk0/MyStory/assets/3011/bff5045f-c5c4-475a-8deb-039de40b8e07" alt="Alt Text" width="550" height="400"><br>
+<img src="https://github.usps.gov/vxqqk0/MyStory/assets/3011/e4895898-aa3e-42a8-af06-8ff93aa49849" alt="Alt Text" width="550" height="400"><br>
