@@ -16,3 +16,14 @@
 * [D-100322: CIAM - Logout/Login Error (Failure Status)](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8867182)
 * [D-100418: User 1 able to display User 2 Business Location](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8871174)
 * [D-100444: CIAM - Minor: "Cancel" Timeout message box](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8872871)
+
+## Sonar Report Baseline
+
+**2025-02-28:**
+* New Code Coverage: 7.7%
+* Overall Code Coverage: 29.0%
+* Overall Unit Tests: 638
+![2025-02-28-Sonar-Report_Overall](https://github.usps.gov/vxqqk0/MyStory/assets/3011/bff5045f-c5c4-475a-8deb-039de40b8e07)
+![2025-02-28-Sonar-Report_NewCode](https://github.usps.gov/vxqqk0/MyStory/assets/3011/e4895898-aa3e-42a8-af06-8ff93aa49849)
+
+
