@@ -26,3 +26,10 @@
 
 <img src="https://github.usps.gov/vxqqk0/MyStory/assets/3011/bff5045f-c5c4-475a-8deb-039de40b8e07" alt="Alt Text" width="550" height="400"><br>
 <img src="https://github.usps.gov/vxqqk0/MyStory/assets/3011/e4895898-aa3e-42a8-af06-8ff93aa49849" alt="Alt Text" width="550" height="400"><br>
+
+**2025-03-06:**
+* Priority shift to test CIAM feature and help out 2.0.0 release.
+* Resume to address the new code coverage less than 20% issue.
+* New Code Coverage: 2.0%
+* Overall Code Coverage: 28.9%
+* Overall Unit Tests: 640
