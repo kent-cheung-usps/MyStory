@@ -28,6 +28,7 @@
 | 2025-01-10 | Testing           | B-907187 - Manage Locations (Help on v1.9.4 release testing |
 | 2025-01-13 | Testing           | B-915075 - Easy Post Testing for v1.9.4 release |
 | 2025-02-11 | OC: 32.5% TC: 657 | B-930635 - Unit Test Creation: EregUserService |
+| 2025-03-14 | OC: 41.9% TC: 692 | B-943994 - NFR: Sonar Report Failed for EncryptionHelper.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
