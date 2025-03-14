@@ -29,6 +29,7 @@
 | 2025-01-13 | Testing           | B-915075 - Easy Post Testing for v1.9.4 release |
 | 2025-02-11 | OC: 32.5% TC: 657 | B-930635 - Unit Test Creation: EregUserService |
 | 2025-03-14 | OC: 41.9% TC: 692 | B-943994 - NFR: Sonar Report Failed for EncryptionHelper.java |
+| 2025-03-17 | OC: 42.9% TC: 711 | B-943996 - NFR: Sonar Report Failed for ReferrerFilter.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
