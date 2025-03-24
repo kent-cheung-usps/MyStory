@@ -31,6 +31,7 @@
 | 2025-03-14 | OC: 41.9% TC: 692 | B-943994 - NFR: Sonar Report Failed for EncryptionHelper.java |
 | 2025-03-17 | OC: 42.9% TC: 711 | B-943996 - NFR: Sonar Report Failed for ReferrerFilter.java |
 | 2025-03-19 | OC: 30.7% TC: 692 | B-939866 - NFR: Quality Gate Failed - v2.0.0 New Code less than 20% |
+| 2025-03-25 | OC: 33.0% TC: 753 | B-944854 - NFR: Quality Gate Failed - v2.0.1 MIDService.java New Code less than 20% |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
