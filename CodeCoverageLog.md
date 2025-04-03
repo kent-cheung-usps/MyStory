@@ -34,6 +34,7 @@
 | 2025-03-25 | OC: 33.0% TC: 753 | B-944854 - NFR: Quality Gate Failed - v2.0.1 MIDService.java New Code less than 20% |
 | 2025-03-26 | OC: 33.8% TC: 762 | B-947110 - NFR: Quality Gate Fail v2.1.0 - COPNavigationFilter.java |
 | 2025-03-28 | OC: 34.4% TC: 778 | B-947615 - NFR: Quality Gate Fail v2.1.0 - PlatformAdminService.java |
+| 2025-04-05 | OC: 34.8% TC: 821 | B-947111 - NFR: Quality Gate Fail v2.1.0 - PPCValidateResponseDTO.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
