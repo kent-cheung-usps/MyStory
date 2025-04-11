@@ -36,6 +36,7 @@
 | 2025-03-28 | OC: 34.4% TC: 778 | B-947615 - NFR: Quality Gate Fail v2.1.0 - PlatformAdminService.java |
 | 2025-04-05 | OC: 34.8% TC: 821 | B-947111 - NFR: Quality Gate Fail v2.1.0 - PPCValidateResponseDTO.java |
 | 2025-04-08 | OC: 53.8% TC: 819 | B-934400 - NFR: Unit Test Creation: PPC Service |
+| 2025-04-11 | OC: 49.4% TC: 827 | B-914989 - NFR - Unit Test Creation: Report Service |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
