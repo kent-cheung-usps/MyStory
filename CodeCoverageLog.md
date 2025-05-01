@@ -41,6 +41,7 @@
 | 2025-04-21 | OC: 50.1% TC: 842 | B-919523 - NFR - Unit Test Creation: ThirdPartyBillingParentWF |
 | 2025-04-23 | OC: 50.5% TC: 849 | B-955527 - NFR - Unit Test Creation: AbstractBaseAPI.java<br>B-956095 - NFR - Unit Test Creation: AbstractApigeeService.java |
 | 2025-04-25 | OC: 51.0% TC: 877 | B-955721 - NFR - Unit Test Creation: Domain Component - Mail<br>B-919521 - NFR - Unit Test Creation: Domain Component - BCG |
+| 2025-05-01 | OC: 51.6% TC: 899 | B-957475 - NFR - Unit Test Creation: EPSUtils.java |
 
 
 # Sonar Major Bug & Vulnerabilities Fixes
