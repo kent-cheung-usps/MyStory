@@ -42,6 +42,7 @@
 | 2025-04-23 | OC: 50.5% TC: 849 | B-955527 - NFR - Unit Test Creation: AbstractBaseAPI.java<br>B-956095 - NFR - Unit Test Creation: AbstractApigeeService.java |
 | 2025-04-25 | OC: 51.0% TC: 877 | B-955721 - NFR - Unit Test Creation: Domain Component - Mail<br>B-919521 - NFR - Unit Test Creation: Domain Component - BCG |
 | 2025-05-01 | OC: 51.6% TC: 899 | B-957475 - NFR - Unit Test Creation: EPSUtils.java |
+| 2025-05-06 | OC: 51.8% TC: 903 | B-959096 - Fix SonarQube Report Failure: New Code Coverage Below 20% |
 
 
 # Sonar Major Bug & Vulnerabilities Fixes
