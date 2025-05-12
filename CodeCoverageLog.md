@@ -45,7 +45,6 @@
 | 2025-05-06 | OC: 51.8% TC: 903 | B-959096 - Fix SonarQube Report Failure: New Code Coverage Below 20% |
 | 2025-05-09 | OC: 54.9% TC: 957 | B-959738 - NFR - Unit Test Creation: UserDTOHelper.java |
 
-
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
 |---|---|---|
@@ -54,3 +53,5 @@
 | 2024-11-15 | B:0 V:35    | Upload latest Sonar Report screenshot |
 | 2024-11-19 | B:0 V:0     | B-908934: Sonar Vulnerability - Fix Log Injection |
 | 2024-11-20 | B:0 V:0     | D-96309: Fix Sonar Major Bug introduce on 2024-11-19 |
+| 2025-05-12 | B:0 V:0     | D-103466: Too much warning (40) in test files during compile and build |
+
