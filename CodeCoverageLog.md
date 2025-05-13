@@ -44,6 +44,7 @@
 | 2025-05-01 | OC: 51.6% TC: 899 | B-957475 - NFR - Unit Test Creation: EPSUtils.java |
 | 2025-05-06 | OC: 51.8% TC: 903 | B-959096 - Fix SonarQube Report Failure: New Code Coverage Below 20% |
 | 2025-05-09 | OC: 54.9% TC: 957 | B-959738 - NFR - Unit Test Creation: UserDTOHelper.java |
+| 2025-05-13 | Build POC         | B-962286 - NFR: SPIKE - Programmatically extract the Email Passcode for UI automation |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
