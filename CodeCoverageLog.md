@@ -46,6 +46,7 @@
 | 2025-05-09 | OC: 54.9% TC: 957 | B-959738 - NFR - Unit Test Creation: UserDTOHelper.java |
 | 2025-05-13 | Build POC         | B-962286 - NFR: SPIKE - Programmatically extract the Email Passcode for UI automation |
 | 2025-05-16 | 3 UI Auto Samples | B-962560 - NFR: Programmatically extract the Email Validation Link for UI automation |
+| 2025-05-19 | OC: 55.3% TC: 967 | B-961210 - NFR - Unit Test Creation: ExcelReaderHelper.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
