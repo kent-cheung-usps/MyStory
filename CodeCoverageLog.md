@@ -47,6 +47,7 @@
 | 2025-05-13 | Build POC         | B-962286 - NFR: SPIKE - Programmatically extract the Email Passcode for UI automation |
 | 2025-05-16 | 3 UI Auto Samples | B-962560 - NFR: Programmatically extract the Email Validation Link for UI automation |
 | 2025-05-19 | OC: 55.3% TC: 967 | B-961210 - NFR - Unit Test Creation: ExcelReaderHelper.java |
+| 2025-05-22 | OC: 55.4% TC: 980 | B-961212 - NFR - Unit Test Creation: EPSSelectionDTO.java <br>B-957574 - NFR - Unit Test Creation: EPSResponseDTO.java<br>B-957571 - NFR - Unit Test Creation: EPSACHRequestDTO.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
