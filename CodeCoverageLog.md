@@ -48,6 +48,7 @@
 | 2025-05-16 | 3 UI Auto Samples | B-962560 - NFR: Programmatically extract the Email Validation Link for UI automation |
 | 2025-05-19 | OC: 55.3% TC: 967 | B-961210 - NFR - Unit Test Creation: ExcelReaderHelper.java |
 | 2025-05-22 | OC: 55.4% TC: 980 | B-961212 - NFR - Unit Test Creation: EPSSelectionDTO.java <br>B-957574 - NFR - Unit Test Creation: EPSResponseDTO.java<br>B-957571 - NFR - Unit Test Creation: EPSACHRequestDTO.java |
+| 2025-06-02 | OC: 60.6% TC: 1033 | B-967343 - NFR : v2.2.1 SonarQube Quality Gates Failed In New Code |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
