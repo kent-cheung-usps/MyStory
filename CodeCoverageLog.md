@@ -50,6 +50,7 @@
 | 2025-05-22 | OC: 55.4% TC: 980 | B-961212 - NFR - Unit Test Creation: EPSSelectionDTO.java <br>B-957574 - NFR - Unit Test Creation: EPSResponseDTO.java<br>B-957571 - NFR - Unit Test Creation: EPSACHRequestDTO.java |
 | 2025-06-02 | OC: 60.6% TC: 1033 | B-967343 - NFR : v2.2.1 SonarQube Quality Gates Failed In New Code |
 | 2025-06-03 | OC: 60.0% TC: 1033 | B-964610 - NFR - New Code Coverage under 20% for v2.2.1 |
+| 2025-06-05 | OC: 61.3% TC: 1051 | B-965285 - NFR - Unit Test Creation: EPSService.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
