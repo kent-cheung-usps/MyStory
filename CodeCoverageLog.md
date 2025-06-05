@@ -51,6 +51,7 @@
 | 2025-06-02 | OC: 60.6% TC: 1033 | B-967343 - NFR : v2.2.1 SonarQube Quality Gates Failed In New Code |
 | 2025-06-03 | OC: 60.0% TC: 1033 | B-964610 - NFR - New Code Coverage under 20% for v2.2.1 |
 | 2025-06-05 | OC: 61.3% TC: 1051 | B-965285 - NFR - Unit Test Creation: EPSService.java |
+| 2025-06-06 | OC: 62.7% TC: 1087 | B-969213 - NFR - Unit Test Creation: RestTemplateHelper.java<br>B-968181 - NFR - Unit Test Creation: EmailHelper.java |
 
 # Sonar Major Bug & Vulnerabilities Fixes
 | DATE | Metric | Story |
