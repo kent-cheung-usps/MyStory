@@ -13,7 +13,7 @@ User has enrolled in SHIP returns ONLY and wants to enroll in outbound | 1 retur
 
 ## Test Cases From Radha
 2025-01-10 - https://github.usps.gov/vxqqk0/MyStory/blob/main/Rel_v1.9.4_Item/EIR-9075-My%20Locations.xlsb
-2025-01-10 - https://github.com/kent-cheung-usps/MyStory/Rel_v1.9.4_Item/assets/EIR-9075-My%20Locations.xlsb
+2025-01-10 - https://github.com/kent-cheung-usps/MyStory/main/Rel_v1.9.4_Item/assets/EIR-9075-My%20Locations.xlsb
 
 ## Defects
 [D-98396 : Failed to enroll Mailer ID in Happy Path](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8747273)<br>
@@ -38,4 +38,4 @@ User has enrolled in SHIP returns ONLY and wants to enroll in outbound | 1 retur
 1. Beside manual test, I am also pinpoint the issue from code level. Example: [D-98793 : Failed to add business location for "user by crid"](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A8774346)<br>
 The stack trace indicated an issue with `PPCService.requestService`. I traced the code and pinpointed the potential problem with `epsAccount` and notified the code owner. The defect was successfully resolved in less than 20 minutes.<br>
 ![image](https://github.com/user-attachments/assets/5558f94a-55d3-4d75-a207-f1a8325106d0)
-![Image](https://github.com/kent-cheung-usps/MyStory/Rel_v1.9.4_Item/assets/2d34d3a3-41ae-4b32-9068-b64c6d98f343.png)
+![Image](https://github.com/kent-cheung-usps/MyStory/main/Rel_v1.9.4_Item/assets/2d34d3a3-41ae-4b32-9068-b64c6d98f343.png)
