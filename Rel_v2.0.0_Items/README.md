@@ -24,8 +24,8 @@
 * Overall Code Coverage: 29.0%
 * Overall Unit Tests: 638
 
-<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/assets/bff5045f-c5c4-475a-8deb-039de40b8e07.png" alt="Alt Text" width="550" height="400"><br>
-<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/assets/e4895898-aa3e-42a8-af06-8ff93aa49849.png" alt="Alt Text" width="550" height="400"><br>
+<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/Rel_v2.0.0_Items/assets/bff5045f-c5c4-475a-8deb-039de40b8e07.png" alt="Alt Text" width="550" height="400"><br>
+<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/Rel_v2.0.0_Items/assets/e4895898-aa3e-42a8-af06-8ff93aa49849.png" alt="Alt Text" width="550" height="400"><br>
 
 **2025-03-06:**
 * Priority shift to test CIAM feature and help out 2.0.0 release.
@@ -34,5 +34,5 @@
 * Overall Code Coverage: 28.9%
 * Overall Unit Tests: 640
 
-<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/assets/282b459c-e029-4526-8cbf-cfc0a8fb5357.png" alt="Alt Text" width="600" height="400"><br>
-<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/assets/edd9b7cc-5c54-4ce5-9cdb-c6cd0d79fa7c.png" alt="Alt Text" width="600" height="400"><br>
+<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/Rel_v2.0.0_Items/assets/282b459c-e029-4526-8cbf-cfc0a8fb5357.png" alt="Alt Text" width="600" height="400"><br>
+<img src="https://github.com/kent-cheung-usps/MyStory/blob/main/Rel_v2.0.0_Items/assets/edd9b7cc-5c54-4ce5-9cdb-c6cd0d79fa7c.png" alt="Alt Text" width="600" height="400"><br>
