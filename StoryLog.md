@@ -9,3 +9,4 @@ All non-Code Coverage Stories.
 | DATE | Defect | Note |
 |---|---|---|
 | 2025-06-27 | D-104848: URL Exploitation - Attackers able to REPEATEDLY manipulate URLs | [D-104848](https://github.com/kent-cheung-usps/MyStory/wiki/v2.2.1-Defects#d-104848) |
+| 2025-07-07 | D-105242: INC000009796224 USPS Ship enrollment failure | [D-105242](https://versionone.usps.gov/v1/defect.mvc/Summary?oidToken=Defect%3A9192235) |
